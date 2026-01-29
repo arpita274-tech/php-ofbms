@@ -1,0 +1,8 @@
+# Ignore system/XAMPP files
+.DS_Store
+Thumbs.db
+
+# Ignore vendor/temp/log files
+vendor/
+*.log
+*.cache
